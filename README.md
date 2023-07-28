@@ -31,7 +31,7 @@ Intructions:
    - Summarize the findings of the EDA.
    - Include visualizations, key statistics.
    
-Output expeted:
+Output expected:
 
 1)  Github link to a repository that contains the following:
 i)  code
