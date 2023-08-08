@@ -1,7 +1,7 @@
 # IOD_mini_project1
 IOD mini project that encapsulate modules 1-3
 
-Summary of project [IOD_mini_project1.pdf](IOD_mini_project1.pdf)
+Summary of project [](IOD_mini_project1.pdf)
 
 Project intructions: (Follow these steps to reproduce the code and results)
 
