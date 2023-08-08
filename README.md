@@ -11,7 +11,7 @@ Project intructions: (Follow these steps to reproduce the code and results)
 
 2. Data Retrieval and SQL Database setup:
    - Download and open jupyter notebook [Data_retrieval](Data_retrieval.ipynb) for details on data retrieval and storage done for this project
-   - Read from [preprocess_db](preprocess_db.sqlite) to skip this step
+   - Read data from [preprocess_db](preprocess_db.sqlite) to skip data retrieval and storage step
    
 3. Data Preprocessing and Exploratory Data Analysis (EDA):
    - Download and open jupyter notebook [Data_preprocessing_EDA](Data_preprocessing_EDA.ipynb) for details on data preprocessing and EDA done for this project
