@@ -33,6 +33,6 @@ Project intructions: (Follow these steps to reproduce the code and results)
 | [CHN_Provincial_Boundary_files](CHN_Provincial_Boundary_files.zip) | Contains shapefile used for visualization (.shp file is the only file used for this project) | zip/shp |
 | [groupby_name_profiling_report](groupby_name_profiling_report.html) | Profiling report done during EDA (Sum of features by country) | HTML |
 | [merged_profiling_report](merged_profiling_report.html) | Profiling report done during EDA (Merged table of reports and regions) | HTML |
-| [statistic_id1183370_population-density-in-china-2020-by-region](statistic_id1183370_population-density-in-china-2020-by-region.xlsx) | Supplementary dataset of population density | xlsx |
+| [statistic_id1183370_population-density-in-china-2020-by-region](statistic_id1183370_population-density-in-china-2020-by-region.xlsx) | Supplementary dataset of China's population density and gdp | xlsx |
 | [owid-energy-data](owid-energy-data.json) | EDA: Additional studies on energy consumption data of the world (To measure developement stage) | json |
 | [owid-energy-data](owid-energy-data.csv) | EDA: Additional studies on energy consumption data of the world (To measure developement stage) | csv |
