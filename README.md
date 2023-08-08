@@ -1,7 +1,14 @@
 # IOD_mini_project1
-IOD mini project that encapsulate modules 1-3
-
 Summary of project: [IOD_mini_project1](IOD_mini_project1.pdf)
+
+This mini project encapsulate modules 1-3:
+   - Git Version Control
+   - Environment Management
+   - Data Retrieval
+   - Data Preprocessing
+   - SQL Database Integration
+   - Exploratory Data Analysis (EDA)
+   - Conclusion and Reporting
 
 Project intructions: (Follow these steps to reproduce the code and results)
 
