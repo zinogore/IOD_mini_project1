@@ -7,7 +7,7 @@ Project intructions: (Follow these steps to reproduce the code and results)
 
 1. Dependencies:
    - Download [requirements](requirements.txt) file for the full list of dependencies used in this project
-   - Use command line pip install -r <downloadpath>/requirements.txt to install dependencies
+   - Use command line `pip install -r <downloadpath>/requirements.txt` to install dependencies
 
 2. Data Retrieval and SQL Database setup:
    - Download and open jupyter notebook [Data_retrieval](Data_retrieval.ipynb) for details on data retrieval and storage done for this project
